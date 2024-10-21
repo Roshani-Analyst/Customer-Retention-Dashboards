@@ -20,7 +20,7 @@ This project contains Power BI reports analyzing **customer churn** and **risk m
 ![Churn Dashboard](https://github.com/Roshani-Analyst/Customer-Retention-Dashboards/blob/main/Customer%20Retention_Churn.jpg)
 
 ### Customer Risk Analysis
-![Customer Risk Analysis]()
+![Customer Risk Analysis](https://github.com/Roshani-Analyst/Customer-Retention-Dashboards/blob/main/Customer%20Retention_Risk.jpg)
 
 ## Tools Used
 - **Power BI**: Used for creating interactive dashboards and analyzing data.
